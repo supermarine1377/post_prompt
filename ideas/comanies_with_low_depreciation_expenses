@@ -2,15 +2,9 @@
 
 Open AI Playground, gpt-4-0314, temp = 1
 
-```
-
 # system
 
 When investing, I prefer companies with low depreciation costs. Specifically, I want to find companies whose depreciation expense is consistently low relative to their gross profit: A ratio of depreciation to gross profit below 7% is fantastic to me. Suggest 10 such companies within your knowledge.
-
-```
-
-```
 
 # assistant
 
@@ -43,7 +37,7 @@ Examples include Visa, Mastercard, and JPMorgan Chase.
 5. Consulting and advisory services: 
 
 Companies that provide consulting, marketing, or other professional services generally have low depreciation costs. 
-```
+
 
 Examples include Accenture, McKinsey & Company, and Boston Consulting Group.
 
